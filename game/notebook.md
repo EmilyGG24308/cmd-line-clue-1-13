@@ -12,6 +12,7 @@
 - [X] Artist
 - [X] Chef
 - [X] Policia (gym)
+- [X] Musician (bakery storage)
 
 ## Weapons
 - [ ] Wooden Box
@@ -22,6 +23,7 @@
 - [X] Iron Poker
 - [X] Kitchen Knife (science lab no people)
 - [X] Glass Bottle (gym)
+- [X] Heavy Book (bakery storage)
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -31,5 +33,8 @@
  - No one in sandbox nor objects
  - Study in residential area??
  - Bronze trophy twice maybe error..
+ - no people in cafe
+ - no people or obj in market stockroom or aiseles
+ - no ppl or obj in bakery kitchen
 
 Location of the crime is still unknown - the room must have been empty when it happened...
