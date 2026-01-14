@@ -9,6 +9,8 @@
 - [X] The Gardener (offices)
 - [X] Librarian
 - [X] Tailor
+- [X] Artist
+- [X] Chef
 
 ## Weapons
 - [ ] Wooden Box
@@ -16,6 +18,7 @@
 - [ ] Garden Shears
 - [XX] Bronze trophy
 - [X] Fountain Pen 
+- [X] Iron Poker
 
 ## Notes
 *Use this space to record your findings and deductions...*
