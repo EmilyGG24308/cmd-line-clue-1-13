@@ -19,6 +19,7 @@
 - [XX] Bronze trophy
 - [X] Fountain Pen 
 - [X] Iron Poker
+- [X] Kitchen Knife (science lab no people)
 
 ## Notes
 *Use this space to record your findings and deductions...*
