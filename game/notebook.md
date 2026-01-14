@@ -3,17 +3,18 @@
 ## Suspects
 - [X] The Blacksmith
 - [ ] The Shopkeeper
-- [ ] The Clockmaker
+- [X] The Clockmaker
 
 - [X] The Doctor (Council Chamber)
 - [X] The Gardener (offices)
 - [X] Librarian
+- [X] Tailor
 
 ## Weapons
 - [ ] Wooden Box
 - [X] Leather Gloves
 - [ ] Garden Shears
-- [X] Bronze trophy
+- [XX] Bronze trophy
 - [X] Fountain Pen 
 
 ## Notes
@@ -22,5 +23,7 @@
  - Blacksmith reported weird footprints TO CELLAR (during morning roll call)
  - Check DOCK IN PARK
  - No one in sandbox nor objects
+ - Study in residential area??
+ - Bronze trophy twice maybe error..
 
 Location of the crime is still unknown - the room must have been empty when it happened...
