@@ -25,8 +25,8 @@
 - [X] Glass Bottle (gym)
 - [X] Heavy Book (bakery storage)
 - [X] Walking stick (Res area)
+- [X] Letter opener (mansion library)
 
-- [X] Letter opener (mansion library) possible weapon
 ## Notes
 *Use this space to record your findings and deductions...*
  - Found Clue that says to check sandbox at the park
@@ -39,7 +39,9 @@
  - no people or obj in market stockroom or aiseles
  - no ppl or obj in bakery kitchen
 
-CRIME SCENE IN LIBRARY STUDY
+NOT IN LIBRARY STUDY 
+WEAPON IS GARDEN SHEARS THO
+NOT SHOPKEEPER
 
 - no ppl in res general area, mansion library
 - no ppl or obj in gen mansion area
