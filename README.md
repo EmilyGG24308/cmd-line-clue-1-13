@@ -115,9 +115,10 @@ cat clue.txt   # Read the next clue
 
 Happy investigating, Detective! The town is counting on you to solve this mystery!
 
-
+pretty sure i just typed it wrong but i did get it in the end. :)
+ 
 
 FINDINGS
-- Suspect:
+- Suspect: The SHOPKEEPER
 - Weapon: Garden Shears
 - Place: Library
