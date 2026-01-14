@@ -39,9 +39,10 @@
  - no people or obj in market stockroom or aiseles
  - no ppl or obj in bakery kitchen
 
-NOT IN LIBRARY STUDY 
+NOT IN LIBRARY 
+IN STUDY 
 WEAPON IS GARDEN SHEARS THO
-NOT SHOPKEEPER
+NOT SHOPKEEPER IDK WHO 
 
 - no ppl in res general area, mansion library
 - no ppl or obj in gen mansion area
