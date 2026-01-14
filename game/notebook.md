@@ -11,6 +11,7 @@
 - [X] Tailor
 - [X] Artist
 - [X] Chef
+- [X] Policia (gym)
 
 ## Weapons
 - [ ] Wooden Box
@@ -20,6 +21,7 @@
 - [X] Fountain Pen 
 - [X] Iron Poker
 - [X] Kitchen Knife (science lab no people)
+- [X] Glass Bottle (gym)
 
 ## Notes
 *Use this space to record your findings and deductions...*
